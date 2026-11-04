@@ -1,0 +1,4 @@
+# Extends the default gitleaks rules. Add allowlist entries only for
+# synthetic test values, and say why in a comment.
+[extend]
+useDefault = true
